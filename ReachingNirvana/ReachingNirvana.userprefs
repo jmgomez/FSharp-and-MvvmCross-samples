@@ -1,0 +1,36 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone.6.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReachingNirvana.Touch/FirstView.fs">
+    <Files>
+      <File FileName="ReachingNirvana.Core/Setup.fs" Line="15" Column="57" />
+      <File FileName="ReachingNirvana.Touch/FirstView.fs" Line="29" Column="36" />
+      <File FileName="ReachingNirvana.Touch/AppDelegate.fs" Line="24" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="ReachingNirvana.Core" expanded="True">
+            <Node name="References" expanded="True" />
+          </Node>
+          <Node name="ReachingNirvana.Touch" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="FirstView.fs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="ConnectionManagerPad">
+        <State selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
