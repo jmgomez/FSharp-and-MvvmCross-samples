@@ -25,9 +25,9 @@ type FirstView () =
     override this.ViewDidLoad () =
         base.ViewDidLoad ()
         this.View.BackgroundColor <- UIColor.White
-        label.Frame <- new RectangleF((float32)0,(float32)0,(float32)320,(float32)50)
+        label.Frame <- new RectangleF(0.0f,0.0f,320.0f,50.0f)
         this.Add(label)
-        textBox.Frame <- new RectangleF((float32)0,(float32)70,(float32)320,(float32)50)
+        textBox.Frame <- new RectangleF(0.0f,0.0f,320.0f,50.0f)
         this.Add(textBox)
         
         let set  =  MvxBindingContextOwnerExtensions.CreateBindingSet<FirstView,FirstViewModel>(this)
